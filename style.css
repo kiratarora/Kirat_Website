@@ -35,12 +35,6 @@ body {
     
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) { 
-    #Kirat_headshot{
-        width: 300px;
-    }
-}
-
 @media (max-aspect-ratio: 1/1) {
     #title {
         font-size: 10vw
